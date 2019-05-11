@@ -1,0 +1,16 @@
+512	
+16	
+8
+8
+data1_p1.txt
+data1_p2.txt
+data1_p3.txt
+data1_p4.txt
+data2_p1.txt
+data2_p2.txt
+data2_p3.txt
+data2_p4.txt
+
+
+
+
